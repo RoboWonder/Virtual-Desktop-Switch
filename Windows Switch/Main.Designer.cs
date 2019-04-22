@@ -38,8 +38,8 @@
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.mniOpenFrom = new System.Windows.Forms.ToolStripMenuItem();
-            this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.btnOk = new System.Windows.Forms.Button();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -92,7 +92,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(266, 25);
             this.label5.TabIndex = 1;
-            this.label5.Text = "2. Virtual Desktop will change";
+            this.label5.Text = "4. Virtual Desktop will change";
             // 
             // notifyIcon1
             // 
@@ -120,17 +120,17 @@
             this.mniOpenFrom.Text = "Virtual Desktop Switch";
             this.mniOpenFrom.Click += new System.EventHandler(this.mniOpenFrom_Click);
             // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(234, 6);
+            // 
             // mniExit
             // 
             this.mniExit.Name = "mniExit";
             this.mniExit.Size = new System.Drawing.Size(237, 24);
             this.mniExit.Text = "Exit";
             this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(234, 6);
             // 
             // btnOk
             // 
