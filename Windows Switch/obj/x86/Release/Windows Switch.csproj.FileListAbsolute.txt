@@ -1,0 +1,10 @@
+D:\csharp\Windows Switch\Windows Switch\bin\x86\Release\Windows Switch.exe
+D:\csharp\Windows Switch\Windows Switch\bin\x86\Release\Windows Switch.pdb
+D:\csharp\Windows Switch\Windows Switch\bin\x86\Release\Gma.System.MouseKeyHook.dll
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows_Switch.Main.resources
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows_Switch.Properties.Resources.resources
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows Switch.csproj.GenerateResource.cache
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows Switch.csproj.CoreCompileInputs.cache
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows Switch.csproj.CopyComplete
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows Switch.exe
+D:\csharp\Windows Switch\Windows Switch\obj\x86\Release\Windows Switch.pdb
